@@ -25,3 +25,6 @@ export function getNew2() {
   // commit 2
   return false
 }
+
+
+export function mytest() {}
