@@ -20,8 +20,8 @@ export function getNew() {
 }
 
 // for vscode
-// for update
+
 export function getNew2() {
-  // commit 2
+
   return false
 }
