@@ -22,3 +22,8 @@ export function logout() {
     method: 'post'
   })
 }
+
+
+export function userRet() {
+  return false
+}
