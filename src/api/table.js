@@ -7,3 +7,10 @@ export function getList(params) {
     params
   })
 }
+
+
+export function getMy() {
+  return {
+    dev: true
+  }
+}
