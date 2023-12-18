@@ -27,3 +27,7 @@ export function logout() {
 export function userRet() {
   return false
 }
+
+export function devnew() {
+  return false
+}
