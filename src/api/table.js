@@ -10,5 +10,7 @@ export function getList(params) {
 
 
 export function getMy() {
-  return {}
+  return {
+    
+  }
 }
