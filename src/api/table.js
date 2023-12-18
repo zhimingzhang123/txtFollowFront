@@ -14,3 +14,7 @@ export function getMy() {
     dev: true
   }
 }
+
+export function getNew() {
+  return {}
+}
