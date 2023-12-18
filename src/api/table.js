@@ -18,3 +18,8 @@ export function getMy() {
 export function getNew() {
   return {}
 }
+
+// for vscode
+export function getNew2() {
+  return false
+}
